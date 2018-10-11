@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "./Air Quality API",
+    "public": "./",
     "ignore": [
       "firebase.json",
       "**/.*",

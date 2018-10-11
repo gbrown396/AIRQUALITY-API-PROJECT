@@ -129,6 +129,7 @@ section{
   color: #2cfdc7;
   width: 500px;
   height: 500px;
+  font-weight: bolder;
   
   font-family: 'Work Sans', sans-serif;
   text-overflow:contain
